@@ -34,6 +34,7 @@
 
 | Project Name | Technology Used | Live Link | Repo Link |
 |-------------|----------------|-----------|-----------|
-| **Dice Game** | HTML, CSS, JavaScript | [Live](https://dice-game-git-main-reyan-singhs-projects-6255d243.vercel.app/) | [Repo](https://github.com/Reyan9450/DiceGame) |
-| **Real Time Security Assistant** | Flutter, Django, AI71 Falcon | [Live](#) | [Repo](#) |
-| **EcoAlert** | React, Express.js, Twilio API | [Live](#) | [Repo](#) |
+| **Dice Game** | HTML, CSS, JavaScript | <a href="https://dice-game-git-main-reyan-singhs-projects-6255d243.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/Reyan9450/DiceGame" target="_blank">Repo</a> |
+| **Real Time Security Assistant** | Flutter, Django, AI71 Falcon | <a href="#" target="_blank">Live</a> | <a href="#" target="_blank">Repo</a> |
+| **EcoAlert** | React, Express.js, Twilio API | <a href="#" target="_blank">Live</a> | <a href="#" target="_blank">Repo</a> |
+
