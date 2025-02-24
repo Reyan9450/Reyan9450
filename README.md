@@ -52,6 +52,7 @@
 
 | Project Name | Technology Used | Live Link | Repo Link |
 |-------------|----------------|-----------|-----------|
+| **Background Color Changer** | HTML, CSS, JavaScript | [Live](https://bg-changer-five-jade.vercel.app/) | [Repo](https://github.com/Reyan9450/BG_Changer) |
 | **Dice Game** | HTML, CSS, JavaScript | [Live](https://dice-game-git-main-reyan-singhs-projects-6255d243.vercel.app/) | [Repo](https://github.com/Reyan9450/DiceGame) |
 | **Real Time Security Assistant** | Flutter, Django, AI71 Falcon | [Live](#) | [Repo](#) |
 | **EcoAlert** | React, Express.js, Twilio API | [Live](#) | [Repo](#) |
